@@ -1,17 +1,17 @@
 # ManageStudentWithFireBase
 #### Môn Android
-**Họ tên : Nguyễn Đặng Anh Quân
+Họ tên : Nguyễn Đặng Anh Quân
 Mssv: 17008971 **
 
 
-## **Đăng nhập** <br/>
+## Đăng nhập <br/>
 ------------
 ![](app/src/main/res/drawable/login.PNG)
 
-## **Đăng ký ** <br/>
+## Đăng ký <br/>
 ------------
 ![](app/src/main/res/drawable/register.PNG)
 
-## **Quản lý student** <br/>
+## Quản lý student <br/>
 ------------
 ![](app/src/main/res/drawable/quanly.PNG)
